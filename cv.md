@@ -1,28 +1,30 @@
 # **CV**
-## **Колесников Егор**
-### **Контакты:** 89969389375, koles.e.13@mail.ru, telegram: (@kolesbars)
+## **Kolesnikov Yegor**
+![photo](/photo/photo.jpg)
+### **Contacts:** 89969389375, koles.e.13@mail.ru, telegram: (@kolesbars), discord: (Kolesnikov Egor)
 
-### Обо мне:
-Я начинающий Frontend-разработчик. Стремлюсь стать профессионалом в своем деле для чего готов прилагать максимум усилий!
-Стараюсь ежедневно заниматься изучением нового в области разработки.
-Высокомотивирован, целеустремлен, самостоятелен.
+### About me:
+I am a novice Frontend developer. I strive to become a professional in my field, for which I am ready to make every effort!
+Every day I strive to learn something new about development.
+Highly motivated, independent and goal-oriented.
 
-### Навыки:
+### Skills:
 JavaScript, TypeScript, HTML, CSS, React, Redux, Redux Toolkit, Next, Jest, Git;
 
-[Примеры кода] (https://github.com/kolesbars?tab=repositories)
+### Code Examples:
+(https://github.com/kolesbars?tab=repositories)
 
-### Опыт:
-Имею опыт разработки на стеке TypeScript-React-Redux, с проектами
-можно ознакомиться тут: (https://github.com/kolesbars/what-to-watch), (https://github.com/kolesbars/Guitar-store), 
-а также выполнял различные тестовые задания с использованием вышеупомянутых навыков.
-Имею опыт работы в команде.
+### Experience:
+I have experience in developing on the TypeScript-React-Redux stack, with projects
+you can see here: (https://github.com/kolesbars/what-to-watch), (https://github.com/kolesbars/Guitar-store), 
+also performed various test tasks using the aforementioned skills..
+I have experience working in a team.
 
-### Образование:
-Высшее, Томский политехнический университет, Физико-технический инстиут;
-HTML Academy: профессия React-разработчик;
+### Education:
+Higher, Tomsk Polytechnic University, Institute of Physics and Technology;
+HTML Academy: React developer profession;
 
-### Английский язык: B1
+### English: B1
 
 
 
