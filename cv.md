@@ -1,6 +1,5 @@
 # **CV**
 ## **Kolesnikov Yegor**
-![photo](/photo.jpg)
 ### **Contacts:** 89969389375, koles.e.13@mail.ru, telegram: (@kolesbars), discord: (Kolesnikov Egor)
 
 ### About me:
